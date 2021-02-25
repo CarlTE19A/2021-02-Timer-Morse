@@ -1,0 +1,17 @@
+body
+{
+    background-color: rgb(102, 103, 106);
+    background-color: black;
+}
+#countDown
+{
+    font-size: 200px;
+    text-align: center;
+    color: red;
+    font-family:fantasy, arial;
+
+    margin-left: 0;
+    margin-right: 0;
+    border: 0;
+    padding: 0;
+}
